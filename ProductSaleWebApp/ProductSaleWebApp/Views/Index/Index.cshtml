@@ -1,50 +1,9 @@
 ﻿@page
 @model IndexModel
+
 @{
     ViewData["Title"] = "Home page";
 }
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Home
-            <span class="visually-hidden">(current)</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Separated link</a>
-          </div>
-        </li>
-      </ul>
-      <form class="d-flex">
-        <input class="form-control me-sm-2" type="text" placeholder="Search">
-        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </div>
-</nav>
 
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
@@ -60,7 +19,7 @@
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
             <!-- Indicators (Little balls that show which item you're in) -->
             <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="0" class="active" style=""></li>
                 <li data-target="#myCarousel" data-slide-to="1"></li>
                 <li data-target="#myCarousel" data-slide-to="2"></li>
                 <li data-target="#myCarousel" data-slide-to="3"></li>
@@ -71,13 +30,11 @@
                 <div class="item active">
                     <div class="carousel-content">
                         <div style="width: 100%">
-                            <h3 class="title">Los Angeles</h3>
+                            <h3 class="title">MONITORS</h3>
                             <p>
-                                <img src="~/css/la.jpg" alt="The 1st Message."
-                                     style="width: 100%;height: 550px" />
+                                <img src="~/css/monitor.jpg" alt="The 1st Message."
+                                     style="width: 100%;height: 350px" />
                                 <div class="carousel-caption">
-                                    <p class="descripition">LA is aways so much fun!</p>
-                                    <p style="height: 75px"></p>
                                 </div>
                             </p>
                         </div>
@@ -86,13 +43,11 @@
                 <div class="item">
                     <div class="carousel-content">
                         <div style="width: 100%">
-                            <h3 class="title">Chicago</h3>
+                            <h3 class="title">R.A.M</h3>
                             <p>
-                                <img alt="The 2nd Message." src="/css/chic.jpeg"
-                                     style="width: 100%;height: 550px" />
+                                <img alt="The 2nd Message." src="/css/ram.jpg"
+                                     style="width: 100%;height: 350px" />
                                 <div class="carousel-caption">
-                                    <p class="descripition">Thank you, Chicago!</p>
-                                    <p style="height: 75px"></p>
                                 </div>
                             </p>
                         </div>
@@ -101,13 +56,11 @@
                 <div class="item">
                     <div class="carousel-content">
                         <div style="width: 100%">
-                            <h3 class="title">New York</h3>
+                            <h3 class="title">MOTHERBOARDS</h3>
                             <p>
-                                <img alt="The 3rd Message." src="/css/nyc.jpg"
-                                     style="width: 100%;height: 550px" />
+                                <img alt="The 3rd Message." src="/css/motherboard.jpg"
+                                     style="width: 100%;height: 350px" />
                                 <div class="carousel-caption">
-                                    <p class="descripition">We love the Big Apple!</p>
-                                    <p style="height: 75px"></p>
                                 </div>
                             </p>
                         </div>
@@ -116,13 +69,11 @@
                 <div class="item">
                     <div class="carousel-content">
                         <div style="width: 100%">
-                            <h3 class="title">San Francisco</h3>
+                            <h3 class="title">GRAPHIC CARDS</h3>
                             <p>
-                                <img alt="The 4th Message." src="/css/sf.jpg"
-                                     style="width: 100%;height: 550px" />
+                                <img alt="The 4th Message." src="/css/graphic.jpg"
+                                     style="width: 100%;height: 350px" />
                                 <div class="carousel-caption">
-                                    <p class="descripition">If you're alive, you can't be bothered in San Francisco!</p>
-                                    <p style="height: 75px"></p>
                                 </div>
                             </p>
                         </div>
@@ -131,13 +82,11 @@
                 <div class="item">
                     <div class="carousel-content">
                         <div style="width: 100%">
-                            <h3 class="title">Washington</h3>
+                            <h3 class="title">PROCESSORS</h3>
                             <p>
-                                <img alt="The 5th Message." src="/css/wdc.jpg"
-                                     style="width: 100%;height: 550px" />
+                                <img alt="The 5th Message." src="/css/processor.jpg"
+                                     style="width: 100%;height: 350px" />
                                 <div class="carousel-caption">
-                                    <p class="descripition">Perseverance and Spirit have done wonders in all ages!</p>
-                                    <p style="height: 75px"></p>
                                 </div>
                             </p>
                         </div>
@@ -161,8 +110,8 @@
     <style type="text/css">
         .carousel-inner {
             width: auto;
-            height: 550px;
-            max-height: 550px !important;
+            height: 350px;
+            max-height: 350px !important;
         }
 
         .carousel-content {
@@ -171,19 +120,29 @@
             text-align: center;
         }
 
+        .navbar-fixed-top {
+            width: 1200px;
+            left: 20%;
+        }
+
         .descripition {
-            color:indianred;
+            color: indianred;
             background-color: lightblue;
             font-size: 40px;
-            font-family:'Times New Roman', Times, serif;
-            font-palette:light;
+            font-family: 'Times New Roman', Times, serif;
+            font-palette: light;
+        }
+
+        .carousel .carousel-indicators li {
+            width: 10px;
+            height: 10px;
+            border-radius: 0%;
         }
 
         .title {
-            color:black;
+            color: black;
             font-size: 45px;
-            font-family:'Old English Text MT';
-
+            font-family: monospace;
         }
     </style>
     <script type="text/javascript">
