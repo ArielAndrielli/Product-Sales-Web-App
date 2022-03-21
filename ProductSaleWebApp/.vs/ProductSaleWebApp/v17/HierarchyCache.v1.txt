@@ -1,0 +1,294 @@
+﻿++Solution 'ProductSaleWebApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ProductSaleWebApp.sln
+++ProductSaleWebApp
+i:{00000000-0000-0000-0000-000000000000}:ProductSaleWebApp
+++Connected Services 
+i:{757428f5-e503-4390-8a2e-6bec41310477}:>339
+++Dependencies
+i:{757428f5-e503-4390-8a2e-6bec41310477}:>338
+++Properties
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\properties\
+++launchSettings.json
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\properties\launchsettings.json
+++wwwroot
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\
+++css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\js\
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\
+++favicon.ico
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\favicon.ico
+++Controllers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\controllers\
+++GraphicController.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\controllers\graphiccontroller.cs
+++Data
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\data\
+++ProductSaleWebAppContext.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\data\productsalewebappcontext.cs
+++Migrations
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\migrations\
+++Models
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\
+++Category.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\category.cs
+++Piece.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\piece.cs
+++Services
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\services\
+++Exceptions
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\services\exceptions\
+++DbConcurrencyException.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\services\exceptions\dbconcurrencyexception.cs
+++IntegrityException.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\services\exceptions\integrityexception.cs
+++NotFoundException.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\services\exceptions\notfoundexception.cs
+++Views
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\
+++Graphic
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\graphic\
+++Index
+++Monitor
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\monitor\
+++Motherboard
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\motherboard\
+++Processor
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\processor\
+++Ram
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\ram\
+++Shared
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\
+++_ViewImports.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\_viewstart.cshtml
+++appsettings.json
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\appsettings.json
+++Program.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\program.cs
+++No service dependencies discovered
+i:{757428f5-e503-4390-8a2e-6bec41310477}:>340
+++Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:analyzers
+++Frameworks
+i:{757428f5-e503-4390-8a2e-6bec41310477}:frameworks
+++graphic.jpg
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\graphic.jpg
+++monitor.jpg
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\monitor.jpg
+++motherboard.jpg
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\motherboard.jpg
+++processor.jpg
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\processor.jpg
+++ram.jpg
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\ram.jpg
+++site.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\css\site.css
+++site.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\js\site.js
+++bootstrap
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\
+++jquery
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\
+++jquery-validation
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\graphic\index.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\home\index.cshtml
+++Privacy.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\error.cshtml
+++appsettings.Development.json
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\microsoft.netcore.app
+++dist
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\dist\
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\license.txt
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Index.cshtml.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\home\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\home\privacy.cshtml.cs
+++_Layout.cshtml.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\_layout.cshtml.css
+++Error.cshtml.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\shared\error.cshtml.cs
+++jquery.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Startup.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\startup.cs
+++SeedingService.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\data\seedingservice.cs
+++NewFolder
+++Enums
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\enums\
+++SaleStatus.cs
+++Customer.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\customer.cs
+++ViewModels
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\viewmodels\
+++SalesRecord.cs
+++PurchasesRecord.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\purchasesrecord.cs
+++Packages
+i:{757428f5-e503-4390-8a2e-6bec41310477}:packages
+++Pomelo.EntityFrameworkCore.MySql (6.0.1)
+i:{757428f5-e503-4390-8a2e-6bec41310477}:>408
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Home
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\views\home\
+++HomeController.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\viewmodels\errorviewmodel.cs
+++PurchaseStatus.cs
+i:{757428f5-e503-4390-8a2e-6bec41310477}:c:\users\aars\documents\curso c#\productsalewebapp\productsalewebapp\productsalewebapp\models\enums\purchasestatus.cs
